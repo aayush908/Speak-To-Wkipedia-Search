@@ -90,7 +90,7 @@ while 1:
         break
         
     elif "how are you" in query:
-        spk("i am fine sir u tell how may i help u!!")
+        spk("i am fine sir  you tell how may i help u!!")
     
     elif "bad" in query:
         spk("sorry sir for it!I WILL IMPROVE IT FROM NEXT TIME")
