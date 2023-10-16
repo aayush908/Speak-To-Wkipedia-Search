@@ -92,5 +92,8 @@ while 1:
     elif "how are you" in query:
         spk("i am fine sir  you tell how may i help u!!")
     
+    elif "sad" in query:
+        spk(" Always be positive  , God is great ")
+    
     elif "bad" in query:
         spk("sorry sir for it!I WILL IMPROVE IT FROM NEXT TIME")
